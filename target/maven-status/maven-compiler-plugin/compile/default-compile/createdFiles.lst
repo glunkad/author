@@ -1,0 +1,8 @@
+com\example\author\author\AuthorService.class
+com\example\author\author\AuthorController.class
+com\example\author\author\Author$AuthorBuilder.class
+com\example\author\author\AuthorRequest.class
+com\example\author\author\AuthorRepository.class
+com\example\author\author\AuthorRequest$AuthorRequestBuilder.class
+com\example\author\AuthorApplication.class
+com\example\author\author\Author.class
